@@ -1,0 +1,3 @@
+/tmp/tmp.tTDmFveKxV/cmake-build-debug-wiliki/CMakeFiles/ee205_lab06d_hello_clion.dir
+/tmp/tmp.tTDmFveKxV/cmake-build-debug-wiliki/CMakeFiles/edit_cache.dir
+/tmp/tmp.tTDmFveKxV/cmake-build-debug-wiliki/CMakeFiles/rebuild_cache.dir
