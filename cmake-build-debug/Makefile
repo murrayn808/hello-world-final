@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /users10/ee/fac/marknels/tmp/tmp.Vb2U1fXZVi
+CMAKE_SOURCE_DIR = /tmp/tmp.tZDmFveKxV
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /users10/ee/fac/marknels/tmp/tmp.Vb2U1fXZVi/cmake-build-debug
+CMAKE_BINARY_DIR = /tmp/tmp.tZDmFveKxV/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /users10/ee/fac/marknels/tmp/tmp.Vb2U1fXZVi/cmake-build-debug/CMakeFiles /users10/ee/fac/marknels/tmp/tmp.Vb2U1fXZVi/cmake-build-debug//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /tmp/tmp.tZDmFveKxV/cmake-build-debug/CMakeFiles /tmp/tmp.tZDmFveKxV/cmake-build-debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /users10/ee/fac/marknels/tmp/tmp.Vb2U1fXZVi/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /tmp/tmp.tZDmFveKxV/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -117,24 +117,24 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named ee205_lab06d_hello_clion
+# Target rules for targets named ee205_final_exam
 
 # Build rule for target.
-ee205_lab06d_hello_clion: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ee205_lab06d_hello_clion
-.PHONY : ee205_lab06d_hello_clion
+ee205_final_exam: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ee205_final_exam
+.PHONY : ee205_final_exam
 
 # fast build rule for target.
-ee205_lab06d_hello_clion/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ee205_lab06d_hello_clion.dir/build.make CMakeFiles/ee205_lab06d_hello_clion.dir/build
-.PHONY : ee205_lab06d_hello_clion/fast
+ee205_final_exam/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ee205_final_exam.dir/build.make CMakeFiles/ee205_final_exam.dir/build
+.PHONY : ee205_final_exam/fast
 
 main.o: main.cpp.o
 .PHONY : main.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ee205_lab06d_hello_clion.dir/build.make CMakeFiles/ee205_lab06d_hello_clion.dir/main.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ee205_final_exam.dir/build.make CMakeFiles/ee205_final_exam.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -142,7 +142,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ee205_lab06d_hello_clion.dir/build.make CMakeFiles/ee205_lab06d_hello_clion.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ee205_final_exam.dir/build.make CMakeFiles/ee205_final_exam.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -150,7 +150,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ee205_lab06d_hello_clion.dir/build.make CMakeFiles/ee205_lab06d_hello_clion.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ee205_final_exam.dir/build.make CMakeFiles/ee205_final_exam.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -161,7 +161,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... ee205_lab06d_hello_clion"
+	@echo "... ee205_final_exam"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

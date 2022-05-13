@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
-project(ee205_lab06d_hello_clion)
+project(ee205_final_exam)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ee205_lab06d_hello_clion main.cpp)
+add_executable(ee205_final_exam main.cpp)

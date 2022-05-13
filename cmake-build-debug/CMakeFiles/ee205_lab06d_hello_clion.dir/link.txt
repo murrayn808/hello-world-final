@@ -1,1 +1,1 @@
-/usr/bin/g++ -g CMakeFiles/ee205_lab06d_hello_clion.dir/main.cpp.o -o ee205_lab06d_hello_clion 
+/usr/bin/c++ -g CMakeFiles/ee205_lab06d_hello_clion.dir/main.cpp.o -o ee205_lab06d_hello_clion 

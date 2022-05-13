@@ -1,4 +1,4 @@
-Cannot generate into C:\Users\jesus\CLionProjects\hello-world-final\cmake-build-debug
-It is already used for unknown project
-
-Please either delete it manually or select another generation directory
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /tmp/tmp.tZDmFveKxV
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/tmp.tZDmFveKxV/cmake-build-debug

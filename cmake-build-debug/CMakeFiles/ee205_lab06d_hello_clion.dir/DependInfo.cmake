@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/users10/ee/fac/marknels/tmp/tmp.Vb2U1fXZVi/main.cpp" "CMakeFiles/ee205_lab06d_hello_clion.dir/main.cpp.o" "gcc" "CMakeFiles/ee205_lab06d_hello_clion.dir/main.cpp.o.d"
+  "/tmp/tmp.tZDmFveKxV/main.cpp" "CMakeFiles/ee205_lab06d_hello_clion.dir/main.cpp.o" "gcc" "CMakeFiles/ee205_lab06d_hello_clion.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.
