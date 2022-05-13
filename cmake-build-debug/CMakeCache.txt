@@ -235,15 +235,6 @@ ee205_final_exam_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 ee205_final_exam_SOURCE_DIR:STATIC=/tmp/tmp.tZDmFveKxV
 
-//Value Computed by CMake
-ee205_lab06d_hello_clion_BINARY_DIR:STATIC=/tmp/tmp.tZDmFveKxV/cmake-build-debug
-
-//Value Computed by CMake
-ee205_lab06d_hello_clion_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-ee205_lab06d_hello_clion_SOURCE_DIR:STATIC=/tmp/tmp.tZDmFveKxV
-
 
 ########################
 # INTERNAL cache entries
